@@ -1,0 +1,7 @@
+name = Islandora Video Solution Pack
+description = Islandora configurations for persisting and displaying video files
+dependencies[] = fedora_repository
+dependencies[] = swftools
+package = Islandora Solution Pack
+version = 6.x-12.1.0
+core = 6.x
